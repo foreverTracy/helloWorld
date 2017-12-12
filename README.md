@@ -1,2 +1,1 @@
-not a 'hello world'.
-this is a difficult example.
+not a 'hello world'. but a difficult example.
